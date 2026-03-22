@@ -1,4 +1,5 @@
-# gui-shift-csv-exporter
+# Smart-Shift-Sync_GUI
+
 某テーマパーク等の勤務スケジュールをCSV形式で出力するGUIツール
 
 【テーマパークシフトCSV作成ツール】
